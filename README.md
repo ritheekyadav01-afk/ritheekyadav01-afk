@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>⚡ RITHEEK ⚡</h1>
-<h3>AI &amp; ML · Builder · Future JARVIS Engineer</h3>
+<h3>AI &amp; ML · Builder · </h3>
 
 <a href="https://github.com/ritheekyadav01-afk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ritheek+%F0%9F%91%8B;BTech+AI+%26+ML+%40+Woxsen+University;I+build+AI+tools%2C+automations+%26+hardware;North+Star%3A+a+real%2C+physical+JARVIS+%F0%9F%A4%96" alt="Typing SVG" />
